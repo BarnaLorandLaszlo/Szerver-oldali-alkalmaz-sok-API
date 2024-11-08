@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\work\\szerveroldali\\Szerver-oldali-alkalmaz-sok-API\\TodoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{363EB000-90EF-4F1D-9C2D-263CDB044A45}|TodoApi.csproj|f:\\work\\szerveroldali\\szerver-oldali-alkalmaz-sok-api\\todoapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363EB000-90EF-4F1D-9C2D-263CDB044A45}|TodoApi.csproj|solutionrelative:controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363EB000-90EF-4F1D-9C2D-263CDB044A45}|TodoApi.csproj|f:\\work\\szerveroldali\\szerver-oldali-alkalmaz-sok-api\\todoapi\\models\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363EB000-90EF-4F1D-9C2D-263CDB044A45}|TodoApi.csproj|solutionrelative:models\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363EB000-90EF-4F1D-9C2D-263CDB044A45}|TodoApi.csproj|f:\\work\\szerveroldali\\szerver-oldali-alkalmaz-sok-api\\todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363EB000-90EF-4F1D-9C2D-263CDB044A45}|TodoApi.csproj|solutionrelative:models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363EB000-90EF-4F1D-9C2D-263CDB044A45}|TodoApi.csproj|f:\\work\\szerveroldali\\szerver-oldali-alkalmaz-sok-api\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363EB000-90EF-4F1D-9C2D-263CDB044A45}|TodoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363EB000-90EF-4F1D-9C2D-263CDB044A45}|TodoApi.csproj|f:\\work\\szerveroldali\\szerver-oldali-alkalmaz-sok-api\\todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363EB000-90EF-4F1D-9C2D-263CDB044A45}|TodoApi.csproj|solutionrelative:models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoItemDTO.cs",
+              "DocumentMoniker": "F:\\work\\szerveroldali\\Szerver-oldali-alkalmaz-sok-API\\TodoApi\\Models\\TodoItemDTO.cs",
+              "RelativeDocumentMoniker": "Models\\TodoItemDTO.cs",
+              "ToolTip": "F:\\work\\szerveroldali\\Szerver-oldali-alkalmaz-sok-API\\TodoApi\\Models\\TodoItemDTO.cs",
+              "RelativeToolTip": "Models\\TodoItemDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T15:46:36.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoItemsController.cs",
+              "DocumentMoniker": "F:\\work\\szerveroldali\\Szerver-oldali-alkalmaz-sok-API\\TodoApi\\Controllers\\TodoItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TodoItemsController.cs",
+              "ToolTip": "F:\\work\\szerveroldali\\Szerver-oldali-alkalmaz-sok-API\\TodoApi\\Controllers\\TodoItemsController.cs",
+              "RelativeToolTip": "Controllers\\TodoItemsController.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAqwHgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T15:25:31.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\work\\szerveroldali\\Szerver-oldali-alkalmaz-sok-API\\TodoApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\work\\szerveroldali\\Szerver-oldali-alkalmaz-sok-API\\TodoApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T15:23:13.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoContext.cs",
+              "DocumentMoniker": "F:\\work\\szerveroldali\\Szerver-oldali-alkalmaz-sok-API\\TodoApi\\Models\\TodoContext.cs",
+              "RelativeDocumentMoniker": "Models\\TodoContext.cs",
+              "ToolTip": "F:\\work\\szerveroldali\\Szerver-oldali-alkalmaz-sok-API\\TodoApi\\Models\\TodoContext.cs",
+              "RelativeToolTip": "Models\\TodoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T15:22:33.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "F:\\work\\szerveroldali\\Szerver-oldali-alkalmaz-sok-API\\TodoApi\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "Models\\TodoItem.cs",
+              "ToolTip": "F:\\work\\szerveroldali\\Szerver-oldali-alkalmaz-sok-API\\TodoApi\\Models\\TodoItem.cs",
+              "RelativeToolTip": "Models\\TodoItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T15:21:02.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
