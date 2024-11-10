@@ -236,3 +236,4 @@ F:\work\szerveroldali\Szerver-oldali-alkalmaz-sok-API\TodoApi\bin\Debug\net8.0\r
 F:\work\szerveroldali\Szerver-oldali-alkalmaz-sok-API\TodoApi\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 F:\work\szerveroldali\Szerver-oldali-alkalmaz-sok-API\TodoApi\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 F:\work\szerveroldali\Szerver-oldali-alkalmaz-sok-API\TodoApi\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+F:\work\szerveroldali\Szerver-oldali-alkalmaz-sok-API\TodoApi\bin\Debug\net8.0\TodoApi.staticwebassets.runtime.json
